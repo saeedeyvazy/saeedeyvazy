@@ -1,6 +1,6 @@
 ### Hi there, I'm Saeed Eyvazy 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/EivaziSaeed)
+[![Twitter Follow](https://img.shields.io/twitter/follow/eivazisaeed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/EivaziSaeed)
 
 ## I'm a Full-Stack Developer!
 
